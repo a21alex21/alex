@@ -1,0 +1,16 @@
+ img {
+    width: max-content;
+}
+
+#logo {
+    width: 105px;
+    border: none;
+    padding: 50;
+    margin: 1.5%;
+    left: 20;
+    right: 30;
+}
+
+@media screen {
+     max-width: ;
+}
